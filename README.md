@@ -1,1 +1,1 @@
-# SnapXcore
+# SnapXtoken
